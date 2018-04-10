@@ -1,0 +1,94 @@
+*
+{
+	list-style-type: none;
+}
+.navbar-place
+{
+	right: 0 !important;
+}
+header
+{
+	padding-top: 250px;
+	padding-bottom: 200px;
+}
+.header_style
+{
+	display: table;
+	width: 100% ;
+	height:700px;
+	padding: 0;
+	margin-top: 55px !important;
+	text-align: center;
+	background: url(img/cover1.jpg) no-repeat center bottom;
+	color: rgba(255,255,255,0.8);
+}
+
+
+.intro-text
+{
+	color: #ffffff;
+	margin-top: 245px;
+}
+.text
+{
+	font-size: 75px;
+}
+.subtext
+{
+	font-size: 31px;
+}
+.title-style
+{
+	padding-top: 70px;
+}
+
+.video
+{
+	height: 300px !important;
+}
+
+.background
+{
+	background-color: #7f8c8d;
+}
+
+.background2
+{
+	background-color: #2c3e50;
+}
+
+.footer
+{
+	margin: 0;
+}
+
+.copy
+{
+	margin-top: 40px;
+}
+
+.titlecolor
+{
+	color: #ffffff !important;
+}
+
+.textlink
+{
+	color: black;
+}
+
+.hover:hover
+{
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.bottom
+{
+	padding-bottom: 10px;
+}
+
+.inlinetext
+{
+	font-weight:bold;
+}
